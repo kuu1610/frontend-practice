@@ -1,0 +1,24 @@
+h2 {
+    color:indigo;
+    background-color: #C7FFFA;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: #325544 underline;
+    line-height: 2;
+    letter-spacing: 5px;
+    font-size: 80px;
+    font-family: Futura sans-serif;
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p {
+    color: olive;
+}
+
+a {
+    text-decoration: none;
+}
